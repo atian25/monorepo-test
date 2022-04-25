@@ -1,6 +1,13 @@
 # Change Log - @liuyong25/monorepo-test-foo
 
-This log was last generated on Mon, 25 Apr 2022 13:48:17 GMT and should not be manually modified.
+This log was last generated on Mon, 25 Apr 2022 13:58:47 GMT and should not be manually modified.
+
+## 0.0.5
+Mon, 25 Apr 2022 13:58:47 GMT
+
+### Patches
+
+- bbb
 
 ## 0.0.4
 Mon, 25 Apr 2022 13:48:17 GMT
