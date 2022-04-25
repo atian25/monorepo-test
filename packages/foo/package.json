@@ -1,6 +1,6 @@
 {
   "name": "@liuyong25/monorepo-test-foo",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "",
   "dependencies": {
     "@liuyong25/monorepo-test-utils":"workspace:*"
@@ -32,6 +32,9 @@
   "repository": {
     "type": "git",
     "url": ""
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "files": [
     "lib",

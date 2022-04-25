@@ -1,6 +1,6 @@
 {
   "name": "@liuyong25/monorepo-test-utils",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "",
   "dependencies": {
   },
@@ -28,6 +28,9 @@
     "type": "github"
   },
   "eslintIgnore": [ "coverage", "dist" ],
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": ""
