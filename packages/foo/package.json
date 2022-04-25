@@ -1,9 +1,9 @@
 {
   "name": "@liuyong25/monorepo-test-foo",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "",
   "dependencies": {
-    "@liuyong25/monorepo-test-utils":"workspace:*"
+    "@liuyong25/monorepo-test-utils": "workspace:*"
   },
   "devDependencies": {
     "autod": "^3",
@@ -28,7 +28,10 @@
     "version": "12, 14",
     "type": "github"
   },
-  "eslintIgnore": [ "coverage", "dist" ],
+  "eslintIgnore": [
+    "coverage",
+    "dist"
+  ],
   "repository": {
     "type": "git",
     "url": ""

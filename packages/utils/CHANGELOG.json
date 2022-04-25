@@ -1,0 +1,29 @@
+{
+  "name": "@liuyong25/monorepo-test-utils",
+  "entries": [
+    {
+      "version": "0.0.2",
+      "tag": "@liuyong25/monorepo-test-utils_v0.0.2",
+      "date": "Mon, 25 Apr 2022 13:19:45 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "test"
+          }
+        ]
+      }
+    },
+    {
+      "version": "0.0.1",
+      "tag": "@liuyong25/monorepo-test-utils_v0.0.1",
+      "date": "Mon, 25 Apr 2022 12:59:17 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "init"
+          }
+        ]
+      }
+    }
+  ]
+}
