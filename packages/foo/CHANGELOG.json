@@ -2,6 +2,18 @@
   "name": "@liuyong25/monorepo-test-foo",
   "entries": [
     {
+      "version": "0.0.4",
+      "tag": "@liuyong25/monorepo-test-foo_v0.0.4",
+      "date": "Mon, 25 Apr 2022 13:48:17 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "aaa"
+          }
+        ]
+      }
+    },
+    {
       "version": "0.0.3",
       "tag": "@liuyong25/monorepo-test-foo_v0.0.3",
       "date": "Mon, 25 Apr 2022 13:40:08 GMT",
