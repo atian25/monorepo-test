@@ -1,0 +1,10 @@
+{
+  "changes": [
+    {
+      "packageName": "@liuyong25/monorepo-test-foo",
+      "comment": "",
+      "type": "none"
+    }
+  ],
+  "packageName": "@liuyong25/monorepo-test-foo"
+}
